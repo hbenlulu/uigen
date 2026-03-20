@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": ["mcp__playwright",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(tar:*)",
+      "Bash(npx:*)"
+    ]
+  }
+}
